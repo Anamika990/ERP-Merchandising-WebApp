@@ -1,4 +1,4 @@
-##ERP Merchandising WebApp
+#ERP Merchandising WebApp
 
 This is a full-stack ERP (Enterprise Resource Planning) web application built using ASP.NET Web Forms (C#) for managing merchandising operations in a business environment. It streamlines workflows such as contract handling, order management, and reporting through an integrated, user-friendly interface.
 
